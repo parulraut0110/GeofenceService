@@ -1,0 +1,3 @@
+com\GeoFence\GeoFenceProjectApplication.class
+com\GeoFence\Controller\GeofenceController.class
+com\GeoFence\Service\GeofenceService.class
