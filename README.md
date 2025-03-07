@@ -13,6 +13,33 @@ geofence polygon is defined by the following vertices:
 (79.0961734 21.1732564) — Northeast
 
 
+## Inside the Polygon
+Center Point (Approximate center of the polygon):
+Latitude: 21.1732114
+Longitude: 79.0961284
+Coordinates: POINT(79.0961284 21.1732114)
+
+Point Near North-East:
+Latitude: 21.1732500
+Longitude: 79.0961500
+Coordinates: POINT(79.0961500 21.1732500)
+
+Point Near South-West:
+Latitude: 21.1731500
+Longitude: 79.0961000
+Coordinates: POINT(79.0961000 21.1731500)
+
+## Outside the Polygon
+Point Far North (Outside the polygon):
+Latitude: 21.1734000
+Longitude: 79.0961284
+Coordinates: POINT(79.0961284 21.1734000)
+
+Point Far East (Outside the polygon):
+Latitude: 21.1732114
+Longitude: 79.0963000
+Coordinates: POINT(79.0963000 21.1732114)
+
 ![image](https://github.com/user-attachments/assets/fe32394b-e4ad-45e5-b8fa-00cda57b8446)
 
 url: http://localhost:8080/check-geofence?latitude=22.0000000&longitude=80.0962220
