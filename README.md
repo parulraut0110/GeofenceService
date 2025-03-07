@@ -39,6 +39,14 @@ Point Far East (Outside the polygon):
 Latitude: 21.1732114
 Longitude: 79.0963000
 Coordinates: POINT(79.0963000 21.1732114)
+URL: http://localhost:8080/api/geo/check?lat=21.1732114&lon=79.0961284
+
+![image](https://github.com/user-attachments/assets/fbf05d60-5bc3-4e10-8228-e455370923d9)
+
+URL: http://localhost:8080/api/geo/check?lat=21.1734000&lon=79.0961284
+
+![image](https://github.com/user-attachments/assets/d188b774-cbfa-4762-bdfc-861f87451b3c)
+
 
 ![image](https://github.com/user-attachments/assets/fe32394b-e4ad-45e5-b8fa-00cda57b8446)
 
