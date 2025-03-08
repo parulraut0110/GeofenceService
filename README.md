@@ -58,3 +58,13 @@ url: http://localhost:8080/check-geofence?latitude=21.1732698&longitude=79.09622
 
 ![image](https://github.com/user-attachments/assets/9a3e1b2b-3457-4769-8784-9e2b6b232707)
 
+![Screenshot 2025-03-08 014640](https://github.com/user-attachments/assets/0263ced4-dd23-4b6a-b13a-54860565b1e2)
+
+
+![Screenshot 2025-03-08 014651](https://github.com/user-attachments/assets/344dee7b-d7c7-43f8-8bb9-a9010bbddd95)
+
+![Screenshot 2025-03-08 014616](https://github.com/user-attachments/assets/0b1afa61-9da4-4437-b49e-82bf3a409535)
+
+![Screenshot 2025-03-08 014813](https://github.com/user-attachments/assets/0f0e281c-855e-431b-995d-254aa3d0b1f7)
+
+
