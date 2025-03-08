@@ -1,13 +1,13 @@
 # GeofenceService
 
 geofence polygon is defined by the following vertices:
-
+```bash
 (79.0961284 21.1733014) — North
 (79.0962184 21.1732114) — East
 (79.0961284 21.1731214) — South
 (79.0960384 21.1732114) — West
 (79.0961734 21.1732564) — Northeast
-
+```
 
 ## Inside the Polygon
 Center Point (Approximate center of the polygon):
